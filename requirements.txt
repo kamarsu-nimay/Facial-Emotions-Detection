@@ -1,0 +1,5 @@
+the specified libraries should be installed in the system to run the program.
+install deepface
+install tensorflow
+install opencv
+install matplotlib
