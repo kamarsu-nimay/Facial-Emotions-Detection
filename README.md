@@ -16,7 +16,7 @@
   ```
 2. Clone the repo into the system:
    ```
-   https://github.com/nimay-kamarsu/Facial-Emotions-Detection.git
+   git clone https://github.com/nimay-kamarsu/Facial-Emotions-Detection.git
    ```
 
 ## System Design
